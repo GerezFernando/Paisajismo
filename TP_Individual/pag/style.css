@@ -20,7 +20,7 @@ body {
   margin: 0;
   padding: 0;
 }
-
+/* HEADER */
 .content_header {
   background-image: url(../img/fondo/111.jpg);
   background-size: cover;
@@ -153,7 +153,7 @@ input:focus{
   color:white;
 }
 
-
+/* BODY */
 body{
   max-width: 100%;
   height:auto;
